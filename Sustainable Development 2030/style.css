@@ -1,0 +1,481 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+.navbar a{
+float: left;
+padding: 14px;
+text-decoration: none;
+margin-top:20px;
+  margin-left:50px;
+font-size:20px;
+color:#080808;
+}
+
+.navbar a:hover{
+  background: #0a97d9;
+}
+
+.section{
+background-color: #0a97d9;
+color:white;
+  height: 300px;
+  position: relative;
+ padding:14px 16px;
+  text-align:center;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.cover3{
+  background-image: url('https://www.thegoan.net/uploads/news/big_98028_LEAD-EARTH-DAY-2023.jpg');
+height: 800px;
+  position: relative;
+  opacity: 0.5;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+p{
+  font-size: 20px;
+}
+
+
+
+.cover{
+  background-image: url('https://media.licdn.com/dms/image/C5612AQHQfnqbaYUymw/article-inline_image-shrink_1500_2232/0/1595489177322?e=1722470400&v=beta&t=uSrr9hMYs0yTc49CPBaPUhF8NMCPCpysmRmgc3s77VM  ');
+   height:600px;
+  position: relative;
+  opacity: 0.5;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+  .cover2{
+      background-image: url('  https://www.isglobal.org/documents/10179/22225/ODS-circulo-EN-web.jpg/e24b39dd-45b6-44b2-b05d-7a501716b7e9?t=1671473183000  ');
+    height: 600px;
+    position: relative;
+    opacity: 0.5;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+
+footer{
+  text-align: center;
+  bottom: 0;
+  position: fixed;
+  margin-left: 600px;
+  font-size: 30px;
+  color:whitesmoke;
+  }
+.Goal{
+
+color:white;
+  height: 300px;
+  position: relative;
+ padding:14px 16px;
+  text-align:center;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G1{
+    background-image: 
+url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/1.png ');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.G2{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/2.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G3{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/3.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G4{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/4.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G5{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/5.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G6{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/6.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G7{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/7.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G8{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/8.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G9{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/9.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G10{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/10.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G11{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/11.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G12{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/12.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G13{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/13.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G14{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/14.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G15{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/15.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G16{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/16.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.G17{
+  background-image: url('https://globalgoalscms.co.uk/wp-content/uploads/2021/09/17.png');
+  height: 600px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M1{
+  background-image:
+url('https://www.green.earth/hs-fs/hubfs/030323_How%20to%20protect%20the%20oceans%20and%20marine%20life_Visual%201.png?width=1200&height=800&name=030323_How%20to%20protect%20the%20oceans%20and%20marine%20life_Visual%201.png');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M2{
+  background-image:
+url('https://i.pinimg.com/736x/f9/c2/62/f9c2622589d439c1b3192cf04f6aa711.jpg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M3{
+  background-image:
+url('https://i.pinimg.com/736x/57/7b/22/577b226fcb3bd54388f0b6d617ee1389.jpg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M4{
+  background-image:
+url('https://i.pinimg.com/736x/f7/15/c3/f715c33e2d3c892c2952d121c1c8de2b.jpg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M5{
+  background-image:
+url('https://i.pinimg.com/736x/7f/0d/10/7f0d10e28387eb68f8bbdd67d3baf094.jpg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M6{
+  background-image:
+url('https://sentientmedia.org/wp-content/uploads/2021/01/Story-Images-52.png');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M7{
+  background-image:
+url('https://files.worldwildlife.org/wwfcmsprod/images/Fishing_Net/story_full_width/9t3d6gqugs_shutterstock_513364243.jpg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M8{
+  background-image:
+url('https://oursharedseas.com/wp-content/uploads/2021/05/OceanImageBank_WarrenBaverstock_12.jpg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M9{
+  background-image:
+url('https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/masonry/public/lionfish.jpg?itok=AMlU21_u');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M10{
+  background-image:
+url('https://cdn.unenvironment.org/2023-08/naja-bertolt-jensen-2St3S36Gu7w-unsplash.jpg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M11{
+  background-image:
+url('https://i0.wp.com/www.foronuclear.org/wp-content/uploads/2021/02/FIRE-CORAL-BLEACHED-COPYRIGHT-Catlin-Seaview-Survey.jpg?ssl=1');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.M12{
+  background-image:
+url('https://assets.newatlas.com/dims4/default/a6aaa80/2147483647/strip/true/crop/1440x960+0+60/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fclimate-change-ocean-warming-worse-1.jpg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.A1{
+  background-image:
+url('https://research-and-innovation.ec.europa.eu/sites/default/files/2024-01/3X2-Mission-Forum.jpg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.A2{
+  background-image:
+url('https://assets.change.org/photos/6/tt/so/WmTtSoxnOUmMBHc-1600x900-noPad.jpg?1606309400');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.A3{
+  background-image:
+url('https://www.nrdc.org/sites/default/files/styles/medium_16x9_100/public/media-uploads/sharm_reef.jpg.jpg?h=4521fff0&itok=rITM9IGq');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.A4{
+  background-image:
+url('https://www.iberdrola.com/documents/20125/40312/invasoras_746x419.jpg/58e590eb-a378-3575-6fcb-8f991c97b03f?t=1627278659628');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.A5{
+  background-image:
+url('https://www.oceanicsociety.org/wp-content/uploads/2020/07/sea-turtle-plastic-bag-ben-hicks-min-1024x522.jpeg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.A6{
+  background-image:
+url('https://blogs.chapman.edu/wp-content/uploads/sites/50/2020/05/Ocean-Acidification-Cover-740x410.png');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.A7{
+  background-image:
+url('https://letstalkscience.ca/sites/default/files/2019-11/melting_world-shaped_glacier.jpg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.slogan{
+  background-image:
+url('https://cdn.downtoearth.org.in/library/large/2023-03-21/0.94628600_1679400019_istock-1327919661.jpg');
+height: 800px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
